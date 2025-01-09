@@ -78,12 +78,12 @@ CSS STRUCTURE:
   --bs-dark-rgb: 41, 41, 41;
   --bs-primary-rgb: 178, 142, 113;
 }
-
 /* Fonts */
 :root {
-  --heading-font: "Poppins", sans-serif;
-  --body-font: "Poppins", sans-serif;
+  --heading-font: "Roboto", sans-serif;
+  --body-font: "Roboto", sans-serif;
 }
+
 
 /*----------------------------------------------*/
 /* 2 GENERAL TYPOGRAPHY
